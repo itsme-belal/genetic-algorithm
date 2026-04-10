@@ -151,5 +151,7 @@ If you found this helpful, consider giving the repo a ⭐
 
 ## 👨‍💻 Author
 
-Your Name
+Belal Hossain
+---
 GitHub: https://github.com/your-username
+---
