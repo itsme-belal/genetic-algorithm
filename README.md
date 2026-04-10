@@ -152,6 +152,14 @@ If you found this helpful, consider giving the repo a ⭐
 ## 👨‍💻 Author
 
 Belal Hossain
+
 ---
-GitHub: https://github.com/your-username
+Linkdin: www.linkedin.com/in/itsme-belal
+
+---
+
+---
+
+GitHub: https://github.com/itsme-belal
+
 ---
