@@ -19,7 +19,9 @@ def genetic_algorithm():
 
         child = (parents[0] + parents[1]) // 2
         child += random.randint(-5, 5)
-
+        
+        child = max(0, min(child, max_value))
+        
         pop = parents + [child]
 
         while len(pop) < pop_size:
